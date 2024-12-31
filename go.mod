@@ -4,7 +4,7 @@ go 1.23.4
 
 replace clodeo.tech/public/go-universe => git.bluebird.id/vendor-natada/clodeo-golang-universe v1.0.11
 
-replace clodeo.tech/public/go-outbox => git.bluebird.id/vendor-natada/clodeo-golang-outbox-lib.git v1.0.2-bluebird
+replace clodeo.tech/public/go-outbox => git.bluebird.id/vendor-natada/clodeo-golang-outbox-lib.git v1.0.6-bluebird
 
 require (
 	clodeo.tech/public/go-outbox v0.0.0-00010101000000-000000000000

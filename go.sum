@@ -15,8 +15,8 @@ cloud.google.com/go/longrunning v0.6.2 h1:xjDfh1pQcWPEvnfjZmwjKQEcHnpz6lHjfy7Fo0
 cloud.google.com/go/longrunning v0.6.2/go.mod h1:k/vIs83RN4bE3YCswdXC5PFfWVILjm3hpEUlSko4PiI=
 cloud.google.com/go/pubsub v1.45.3 h1:prYj8EEAAAwkp6WNoGTE4ahe0DgHoyJd5Pbop931zow=
 cloud.google.com/go/pubsub v1.45.3/go.mod h1:cGyloK/hXC4at7smAtxFnXprKEFTqmMXNNd9w+bd94Q=
-git.bluebird.id/vendor-natada/clodeo-golang-outbox-lib.git v1.0.2-bluebird h1:3zTOxkaKHe27jd+I7z2f6XfoYzQ86CwZtVRgi4SvOfY=
-git.bluebird.id/vendor-natada/clodeo-golang-outbox-lib.git v1.0.2-bluebird/go.mod h1:VXfdUxPUoaaiP2HF34WQFjVTYywF/d9I0Yc0lBl1zMY=
+git.bluebird.id/vendor-natada/clodeo-golang-outbox-lib.git v1.0.6-bluebird h1:zRmHQYJu68TGRt5gbD6B3i1cHck7kbnHssEfZznhRZY=
+git.bluebird.id/vendor-natada/clodeo-golang-outbox-lib.git v1.0.6-bluebird/go.mod h1:VXfdUxPUoaaiP2HF34WQFjVTYywF/d9I0Yc0lBl1zMY=
 git.bluebird.id/vendor-natada/clodeo-golang-universe v1.0.11 h1:oypBreWHFuOKqB2Q3sBN4C0bezfRTOSVP5dU3nyQZzw=
 git.bluebird.id/vendor-natada/clodeo-golang-universe v1.0.11/go.mod h1:fXj2jU2tVauzwCqJKrFDhHcNRq6Gwvjjg3sLSidrUdc=
 github.com/Azure/go-ansiterm v0.0.0-20230124172434-306776ec8161 h1:L/gRVlceqvL25UVaW/CKtUDjefjrs0SPonmDGUVOYP0=

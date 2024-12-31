@@ -76,6 +76,10 @@ func StartCron() {
 	// Step 1: Initialize the outbox manager.
 	outboxManager, _ := initEventOutboxManager()
 
+	outboxManager.Init(nil)
+
 	// Step 2: Start the cron service with the specified settings.
 	outboxManager.StartCron(100, time.Duration(60)*time.Second)
+	// Block the program from exiting.
+	select {}
 }

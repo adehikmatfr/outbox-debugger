@@ -16,6 +16,17 @@
             }
         },
         {
+            "name": "Launch Cron",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}",
+            "args": ["cron"],
+            "env": {
+                "GOOGLE_APPLICATION_CREDENTIALS": "${workspaceFolder}/../credential/bluebird-pubsubservice.json"
+            }
+        },
+        {
             "name": "Launch Publish",
             "type": "go",
             "request": "launch",
